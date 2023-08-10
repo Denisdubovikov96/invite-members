@@ -1,0 +1,17 @@
+.chip {
+  display: inline-flex;
+  padding: 1px 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  border-radius: 24px;
+  background: #EEEFF2;
+  color: #3E4959;
+  text-align: right;
+  font-family: Inter;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: -0.22px;
+}

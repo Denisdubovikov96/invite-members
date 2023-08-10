@@ -1,0 +1,16 @@
+.app {
+  padding: 16px;
+}
+.loading {
+  margin: 16px 0;
+  font-size: 14px;
+}
+
+.section:not(:last-child) {
+  margin-bottom: 32px;
+}
+
+.section__title {
+  padding: 0 8px;
+  margin-bottom: 8px;
+}
